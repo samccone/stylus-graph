@@ -1,0 +1,27 @@
+{
+  "name": "stylus-graph",
+  "version": "0.0.0",
+  "description": "return an array of paths that a stylus file depends on",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "stylus": "~0.32.1",
+    "underscore": "~1.4.4"
+  },
+  "devDependencies": {
+    "mocha": "~1.11.0"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": "",
+  "keywords": [
+    "stylus",
+    "asset",
+    "graph"
+  ],
+  "author": "Sam Saccone",
+  "license": "BSD"
+}
