@@ -1,7 +1,7 @@
 stylus graph
 ---------
 
-![](https://api.travis-ci.org/samccone/stylus-graph.png)
+[![Build Status](https://travis-ci.org/samccone/stylus-graph.png?branch=master)](https://travis-ci.org/samccone/stylus-graph)
 
 ### a stylus asset graph generator
 
