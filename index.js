@@ -6,6 +6,7 @@ var Stylus        = require('stylus');
 require('./lib/import-monkey-patch');
 
 exports.getDependencies = function(path) {
+  importedFiles = [];
   var basePath = dirname(path);
   var contents = fs.readFileSync(path, "utf8");
 
