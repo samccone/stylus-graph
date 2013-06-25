@@ -1,6 +1,8 @@
 stylus graph
 ---------
 
+![](https://api.travis-ci.org/samccone/stylus-graph.png)
+
 ### a stylus asset graph generator
 
 #### current status
